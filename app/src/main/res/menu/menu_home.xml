@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item_confg" android:title="Configurações" android:orderInCategory="1" />
+
+    <item android:id="@+id/item_sair" android:title="Sair" android:orderInCategory="2" />
+
+</menu>
