@@ -9,17 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TelaPrincipal">
+        <activity android:name=".Activity.TelaInicial">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TelaLogin" />
-        <activity android:name=".TelaCriarEnquente" />
-        <activity android:name=".TelaPersonalizarEnquente" />
-        <activity android:name=".TelaHome"></activity>
+        <activity android:name=".Activity.TelaLogin" />
+        <activity android:name=".Activity.TelaCriarEnquente" />
+        <activity android:name=".Activity.TelaPersonalizarEnquente" />
+        <activity android:name=".Activity.TelaPrincipal" />
+        <activity android:name=".Activity.TelaCadastro"></activity>
     </application>
 
 </manifest>

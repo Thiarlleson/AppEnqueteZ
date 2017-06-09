@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.thiarlleson.enquentez.TelaPersonalizarEnquente"
+    tools:context="com.example.thiarlleson.enquentez.Activity.TelaPersonalizarEnquente"
     android:background="@drawable/fundo_principal">
 
     <android.support.v7.widget.Toolbar

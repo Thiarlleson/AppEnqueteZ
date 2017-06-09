@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829832297919",
+    "firebase_url": "https://enquetez-cdc64.firebaseio.com",
+    "project_id": "enquetez-cdc64",
+    "storage_bucket": "enquetez-cdc64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829832297919:android:5cd695c48f91e3c1",
+        "android_client_info": {
+          "package_name": "com.example.thiarlleson.enquentez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829832297919-d9ev74gjogtld0jcmltr1bae40rfhij1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thiarlleson.enquentez",
+            "certificate_hash": "1935f598b4b353f3cf0e647942f69e6561c302de"
+          }
+        },
+        {
+          "client_id": "829832297919-mpa4b0mk59s7poh48qkt8n5mvkul5qc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RFZ3dbvRqgI0PyNTZdxfHZIJ6-yXwS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829832297919-mpa4b0mk59s7poh48qkt8n5mvkul5qc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

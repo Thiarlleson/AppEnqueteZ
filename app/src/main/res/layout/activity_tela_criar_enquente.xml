@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.thiarlleson.enquentez.TelaCriarEnquente"
+    tools:context="com.example.thiarlleson.enquentez.Activity.TelaCriarEnquente"
     android:background="@drawable/fundo_principal">
 
 
@@ -29,7 +29,8 @@
         android:layout_marginTop="77dp"
         android:ems="10"
         android:hint="Alternativa 1"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:background="@drawable/estilo_editext"/>
 
     <EditText
         android:id="@+id/editText6"
@@ -43,7 +44,8 @@
         android:layout_toStartOf="@+id/floatingActionButton2"
         android:ems="10"
         android:hint="Alternativa 2"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:background="@drawable/estilo_editext" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/floatingActionButton2"
@@ -65,7 +67,8 @@
         android:hint="Digite a Enquete"
         android:inputType="textPersonName"
         android:layout_below="@+id/toolbarCriarEnquete"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/estilo_editext" />
 
     <Button
         android:id="@+id/button3"

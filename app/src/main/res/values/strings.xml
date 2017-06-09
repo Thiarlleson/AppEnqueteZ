@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EnqueteZ</string>
     <string name="title_activity_tela_home">TelaHome</string>
+    <string name="title_activity_teste">teste</string>
 </resources>

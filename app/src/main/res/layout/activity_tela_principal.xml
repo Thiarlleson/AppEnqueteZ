@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo_principal"
-    tools:context="com.example.thiarlleson.enquentez.TelaPrincipal"
+    tools:context="com.example.thiarlleson.enquentez.Activity.TelaInicial"
     >
 
 
@@ -25,13 +25,11 @@
         android:id="@+id/TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="54dp"
         android:layout_below="@+id/button"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
         android:text="Enquetes Mais Votadas"
-        android:textSize="30dp"
-        android:textAlignment="center"
-        android:typeface="monospace"/>
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
 
     <ListView
         android:id="@+id/listViewPrincipal"
